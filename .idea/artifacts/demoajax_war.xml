@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="demoajax:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="JSFJEE-1.0.war">
+      <element id="artifact" artifact-name="demoajax:war exploded" />
+    </root>
+  </artifact>
+</component>
